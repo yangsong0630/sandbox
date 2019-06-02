@@ -1,4 +1,4 @@
 sandbox
 =======
 
-first repo to get familiar with GitHub
+Source control for practicing technical interview questions
